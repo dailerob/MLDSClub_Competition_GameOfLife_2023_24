@@ -45,8 +45,8 @@ git clone https://github.com/your-org/MLDSClub_Competition_GameOfLife_2023_24.gi
 cd MLDSClub_Competition_GameOfLife_2023_24
 pip install numpy scipy matplotlib notebook
 jupyter notebook MLDS_2023_2024_comp_public_v1_02.ipynb
-
-## 🎮 Demo
+```
+### 🎮 Demo
 
 > Animation of a sample match (random vs. random):
 
@@ -54,13 +54,13 @@ jupyter notebook MLDS_2023_2024_comp_public_v1_02.ipynb
 
 ---
 
-## 🎓 For Educators
+### 🎓 For Educators
 
 Although the 2023–2024 competitions have concluded, this code is fully open for classroom use in machine learning, automata theory, or reinforcement‑learning courses. Feel free to adapt it for assignments or projects—and please let us know how it goes! You can open an issue here or email us at mlds.utexas@gmail.com.
 
 ---
 
-## 🏆 Credits
+### 🏆 Credits
 
 - **Competition design & notebook**: Roberto Dailey & Henry Castillo  
 - **Repository setup & organization**: MLDS Club GitHub team  
