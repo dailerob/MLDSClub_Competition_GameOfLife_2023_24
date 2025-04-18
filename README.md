@@ -50,7 +50,7 @@ jupyter notebook MLDS_2023_2024_comp_public_v1_02.ipynb
 
 > Animation of a sample match (random vs. random):
 
-![Competition Demo](demo.gif)
+![Competition Demo](assets/demo.gif)
 
 ---
 
