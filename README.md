@@ -2,6 +2,8 @@
 
 _Originally run as the semester‑long “Long Competition” in 2023 and 2024, co‑designed by Roberto Dailey & Henry Castillo._
 
+![Competition Demo](assets/demo.gif)
+
 ---
 
 ## 📋 Repo Contents
@@ -46,12 +48,6 @@ cd MLDSClub_Competition_GameOfLife_2023_24
 pip install numpy scipy matplotlib notebook
 jupyter notebook MLDS_2023_2024_comp_public_v1_02.ipynb
 ```
-### 🎮 Demo
-
-> Animation of a sample match (random vs. random):
-
-![Competition Demo](assets/demo.gif)
-
 ---
 
 ### 🎓 For Educators
